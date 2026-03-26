@@ -1,5 +1,5 @@
 # Network-Enumeration
-This Project demonstrates network enumeration techniques using Linux tools. I tincludes scanning, service detection , and information gatheringto identify hosts, open ports , and potiential vulnerabilitiesin a networkenvoirement.
+This Project demonstrates network enumeration techniques using Linux tools. It includes scanning, service detection , and information gatheringto identify hosts, open ports , and potiential vulnerabilitiesin a networkenvoirement.
 
 ## Steps Performed
 1. Set up Kali linux in a virtual machine envoirement.
